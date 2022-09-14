@@ -27,7 +27,7 @@ status-website:
   favicon: https://e-valuados.com/wp-content/uploads/2020/03/Icono-sitio-03-150x150.png
   introTitle: "Bienvenido al monitor de status de Evaluados"
   introMessage: Aqui podras chequear el status de los distintos servicios de Evaluados.
-  name:  
+  name: Evaluados
   navbar:
     - title: Status
       href: /
