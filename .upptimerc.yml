@@ -5,12 +5,18 @@ repo: status # The name of this repository
 sites:
   - name: API Evaluados
     url: https://api.e-valuados.com/v1/health
+  - name: API Test Evaluados
+    url: https://api.test.e-valuados.com/v1/health
   - name: Gestor UPAEP
     url: https://upaep.e-valuados.com
   - name: Gestor Continental
     url: https://continental.e-valuados.com
   - name: Gestor Applicados21
     url: https://applicados21.e-valuados.com
+  - name: Gestor Evaluados
+    url: https://docente.e-valuados.com
+  - name: Gestor UTE
+    url: https://ute.e-valuados.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
