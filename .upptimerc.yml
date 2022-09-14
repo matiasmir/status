@@ -25,6 +25,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://storage.googleapis.com/evaluados-files-1/Logo-Evaluados.png
   name: Evaluados
+  favicon: https://e-valuados.com/wp-content/uploads/2020/03/Icono-sitio-03-150x150.png
+  theme: dark
   introTitle: "Bienvenido al monitor de status de Evaluados"
   introMessage: Aqui podras chequear el status de los distintos servicios de Evaluados.
   navbar:
