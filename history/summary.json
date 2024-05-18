@@ -66,18 +66,19 @@
     "url": "https://continental.e-valuados.com",
     "icon": "https://icons.duckduckgo.com/ip3/continental.e-valuados.com.ico",
     "slug": "gestor-continental",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 174,
+    "time": 173,
     "timeDay": 152,
     "timeWeek": 119,
     "timeMonth": 97,
     "timeYear": 152,
     "dailyMinutesDown": {
+      "2024-05-18": 1,
       "2023-05-26": 16,
       "2023-05-23": 22
     }
@@ -108,9 +109,9 @@
     "url": "https://docente.e-valuados.com",
     "icon": "https://icons.duckduckgo.com/ip3/docente.e-valuados.com.ico",
     "slug": "gestor-evaluados",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -120,6 +121,7 @@
     "timeMonth": 244,
     "timeYear": 256,
     "dailyMinutesDown": {
+      "2024-05-18": 0,
       "2023-05-26": 16,
       "2023-05-23": 22
     }
