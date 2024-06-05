@@ -45,19 +45,19 @@
     "url": "https://upaep.e-valuados.com",
     "icon": "https://icons.duckduckgo.com/ip3/upaep.e-valuados.com.ico",
     "slug": "gestor-upaep",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 290,
-    "timeDay": 204,
-    "timeWeek": 262,
+    "timeDay": 222,
+    "timeWeek": 261,
     "timeMonth": 270,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2024-06-05": 0
+      "2024-06-05": 8
     }
   },
   {
@@ -85,19 +85,19 @@
     "url": "https://applicados21.e-valuados.com",
     "icon": "https://icons.duckduckgo.com/ip3/applicados21.e-valuados.com.ico",
     "slug": "gestor-applicados21",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 274,
-    "timeDay": 140,
-    "timeWeek": 199,
+    "timeDay": 184,
+    "timeWeek": 207,
     "timeMonth": 247,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2024-06-05": 0
+      "2024-06-05": 8
     }
   },
   {
@@ -105,19 +105,19 @@
     "url": "https://docente.e-valuados.com",
     "icon": "https://icons.duckduckgo.com/ip3/docente.e-valuados.com.ico",
     "slug": "gestor-evaluados",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 253,
-    "timeDay": 152,
-    "timeWeek": 243,
-    "timeMonth": 249,
+    "timeDay": 192,
+    "timeWeek": 246,
+    "timeMonth": 250,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2024-06-05": 0,
+      "2024-06-05": 8,
       "2024-05-18": 20
     }
   },
@@ -126,19 +126,19 @@
     "url": "https://ute.e-valuados.com",
     "icon": "https://icons.duckduckgo.com/ip3/ute.e-valuados.com.ico",
     "slug": "gestor-ute",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 185,
-    "timeWeek": 247,
-    "timeMonth": 235,
+    "time": 257,
+    "timeDay": 217,
+    "timeWeek": 251,
+    "timeMonth": 237,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2024-06-05": 0
+      "2024-06-05": 8
     }
   }
 ]
