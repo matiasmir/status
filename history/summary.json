@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 253,
-    "timeDay": 153,
-    "timeWeek": 110,
+    "timeDay": 147,
+    "timeWeek": 118,
     "timeMonth": 110,
     "timeYear": 291,
     "dailyMinutesDown": {
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 181,
-    "timeWeek": 122,
+    "timeDay": 132,
+    "timeWeek": 121,
     "timeMonth": 116,
-    "timeYear": 118,
+    "timeYear": 119,
     "dailyMinutesDown": {
       "2023-11-01": 25
     }
@@ -47,18 +47,16 @@
     "slug": "gestor-upaep",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 290,
-    "timeDay": 212,
-    "timeWeek": 233,
-    "timeMonth": 256,
+    "timeDay": 229,
+    "timeWeek": 244,
+    "timeMonth": 257,
     "timeYear": 260,
-    "dailyMinutesDown": {
-      "2024-06-19": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gestor Continental",
@@ -71,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 119,
-    "timeWeek": 107,
+    "time": 163,
+    "timeDay": 79,
+    "timeWeek": 108,
     "timeMonth": 99,
-    "timeYear": 138,
+    "timeYear": 137,
     "dailyMinutesDown": {
       "2024-05-18": 21
     }
@@ -87,18 +85,16 @@
     "slug": "gestor-applicados21",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 274,
-    "timeDay": 223,
-    "timeWeek": 239,
-    "timeMonth": 246,
+    "timeDay": 246,
+    "timeWeek": 249,
+    "timeMonth": 247,
     "timeYear": 252,
-    "dailyMinutesDown": {
-      "2024-06-19": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gestor Evaluados",
@@ -106,18 +102,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/docente.e-valuados.com.ico",
     "slug": "gestor-evaluados",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 253,
-    "timeDay": 223,
-    "timeWeek": 240,
-    "timeMonth": 250,
+    "timeDay": 236,
+    "timeWeek": 237,
+    "timeMonth": 251,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2024-06-19": 8,
       "2024-05-18": 20
     }
   },
@@ -128,17 +123,15 @@
     "slug": "gestor-ute",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 256,
-    "timeDay": 179,
-    "timeWeek": 215,
+    "timeDay": 183,
+    "timeWeek": 219,
     "timeMonth": 233,
     "timeYear": 245,
-    "dailyMinutesDown": {
-      "2024-06-19": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
