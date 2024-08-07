@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 255,
-    "timeDay": 126,
+    "timeDay": 157,
     "timeWeek": 130,
-    "timeMonth": 136,
+    "timeMonth": 137,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2023-11-06": 17,
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 166,
-    "timeWeek": 144,
-    "timeMonth": 148,
-    "timeYear": 122,
+    "timeDay": 149,
+    "timeWeek": 138,
+    "timeMonth": 149,
+    "timeYear": 123,
     "dailyMinutesDown": {
       "2023-11-01": 25
     }
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 293,
-    "timeDay": 333,
-    "timeWeek": 304,
-    "timeMonth": 303,
+    "timeDay": 262,
+    "timeWeek": 301,
+    "timeMonth": 304,
     "timeYear": 263,
     "dailyMinutesDown": {}
   },
@@ -70,8 +70,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 109,
-    "timeWeek": 114,
+    "timeDay": 70,
+    "timeWeek": 106,
     "timeMonth": 124,
     "timeYear": 118,
     "dailyMinutesDown": {
@@ -84,16 +84,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/applicados21.e-valuados.com.ico",
     "slug": "gestor-applicados21",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 280,
-    "timeDay": 341,
-    "timeWeek": 305,
-    "timeMonth": 333,
-    "timeYear": 257,
+    "timeDay": 235,
+    "timeWeek": 287,
+    "timeMonth": 332,
+    "timeYear": 256,
     "dailyMinutesDown": {}
   },
   {
@@ -108,9 +108,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 246,
-    "timeWeek": 278,
-    "timeMonth": 322,
+    "timeDay": 295,
+    "timeWeek": 275,
+    "timeMonth": 324,
     "timeYear": 253,
     "dailyMinutesDown": {
       "2024-05-18": 20
@@ -128,9 +128,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 258,
-    "timeDay": 265,
-    "timeWeek": 268,
-    "timeMonth": 275,
+    "timeDay": 246,
+    "timeWeek": 260,
+    "timeMonth": 277,
     "timeYear": 246,
     "dailyMinutesDown": {}
   }
