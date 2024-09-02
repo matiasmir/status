@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 257,
-    "timeDay": 138,
-    "timeWeek": 132,
-    "timeMonth": 132,
+    "timeDay": 173,
+    "timeWeek": 144,
+    "timeMonth": 136,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2023-11-06": 17,
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 153,
-    "timeWeek": 122,
-    "timeMonth": 136,
-    "timeYear": 124,
+    "timeDay": 165,
+    "timeWeek": 129,
+    "timeMonth": 137,
+    "timeYear": 125,
     "dailyMinutesDown": {
       "2023-11-01": 25
     }
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 277,
-    "timeWeek": 268,
-    "timeMonth": 287,
-    "timeYear": 263,
+    "timeDay": 255,
+    "timeWeek": 262,
+    "timeMonth": 286,
+    "timeYear": 264,
     "dailyMinutesDown": {}
   },
   {
@@ -64,16 +64,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/continental.e-valuados.com.ico",
     "slug": "gestor-continental",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 88,
-    "timeWeek": 99,
+    "time": 146,
+    "timeDay": 105,
+    "timeWeek": 102,
     "timeMonth": 103,
-    "timeYear": 107,
+    "timeYear": 106,
     "dailyMinutesDown": {
       "2024-05-18": 21
     }
@@ -90,8 +90,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 281,
-    "timeDay": 224,
-    "timeWeek": 237,
+    "timeDay": 296,
+    "timeWeek": 249,
     "timeMonth": 267,
     "timeYear": 257,
     "dailyMinutesDown": {}
@@ -108,8 +108,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 253,
-    "timeWeek": 241,
+    "timeDay": 264,
+    "timeWeek": 247,
     "timeMonth": 259,
     "timeYear": 253,
     "dailyMinutesDown": {
@@ -128,10 +128,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 286,
-    "timeWeek": 275,
-    "timeMonth": 277,
-    "timeYear": 248,
+    "timeDay": 263,
+    "timeWeek": 272,
+    "timeMonth": 276,
+    "timeYear": 249,
     "dailyMinutesDown": {}
   }
 ]
