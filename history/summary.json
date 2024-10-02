@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 257,
-    "timeDay": 132,
-    "timeWeek": 120,
-    "timeMonth": 122,
+    "timeDay": 114,
+    "timeWeek": 121,
+    "timeMonth": 120,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2023-11-06": 17
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 150,
-    "timeWeek": 133,
-    "timeMonth": 144,
+    "timeDay": 182,
+    "timeWeek": 137,
+    "timeMonth": 145,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2023-11-01": 25
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 266,
-    "timeDay": 321,
-    "timeWeek": 292,
-    "timeMonth": 284,
-    "timeYear": 265,
+    "timeDay": 338,
+    "timeWeek": 300,
+    "timeMonth": 287,
+    "timeYear": 266,
     "dailyMinutesDown": {}
   },
   {
@@ -68,10 +68,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 85,
-    "timeWeek": 130,
-    "timeMonth": 125,
+    "time": 139,
+    "timeDay": 162,
+    "timeWeek": 140,
+    "timeMonth": 127,
     "timeYear": 103,
     "dailyMinutesDown": {
       "2024-05-18": 21
@@ -89,8 +89,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 259,
-    "timeWeek": 292,
+    "timeDay": 313,
+    "timeWeek": 286,
     "timeMonth": 270,
     "timeYear": 258,
     "dailyMinutesDown": {}
@@ -107,8 +107,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 257,
-    "timeDay": 341,
-    "timeWeek": 276,
+    "timeDay": 249,
+    "timeWeek": 262,
     "timeMonth": 275,
     "timeYear": 254,
     "dailyMinutesDown": {
@@ -127,10 +127,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 253,
-    "timeDay": 279,
-    "timeWeek": 279,
+    "timeDay": 256,
+    "timeWeek": 265,
     "timeMonth": 277,
-    "timeYear": 251,
+    "timeYear": 250,
     "dailyMinutesDown": {}
   }
 ]
