@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 85,
-    "timeWeek": 127,
+    "timeDay": 93,
+    "timeWeek": 117,
     "timeMonth": 141,
     "timeYear": 204,
     "dailyMinutesDown": {
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 140,
-    "timeWeek": 145,
+    "timeDay": 149,
+    "timeWeek": 140,
     "timeMonth": 151,
     "timeYear": 130,
     "dailyMinutesDown": {
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 270,
-    "timeDay": 242,
+    "timeDay": 299,
     "timeWeek": 291,
-    "timeMonth": 330,
+    "timeMonth": 329,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2024-10-13": 16
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 116,
-    "timeWeek": 116,
-    "timeMonth": 126,
+    "timeDay": 141,
+    "timeWeek": 122,
+    "timeMonth": 127,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2024-05-18": 21
@@ -91,9 +91,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 261,
-    "timeDay": 307,
-    "timeWeek": 264,
-    "timeMonth": 296,
+    "timeDay": 342,
+    "timeWeek": 276,
+    "timeMonth": 297,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2024-10-13": 16
@@ -105,14 +105,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/docente.e-valuados.com.ico",
     "slug": "gestor-evaluados",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 257,
-    "timeDay": 277,
-    "timeWeek": 270,
+    "timeDay": 224,
+    "timeWeek": 267,
     "timeMonth": 275,
     "timeYear": 255,
     "dailyMinutesDown": {
@@ -132,9 +132,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 253,
-    "timeDay": 257,
-    "timeWeek": 246,
-    "timeMonth": 281,
+    "timeDay": 308,
+    "timeWeek": 256,
+    "timeMonth": 282,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2024-10-13": 16
