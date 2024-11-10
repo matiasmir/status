@@ -4,19 +4,19 @@
     "url": "https://api.e-valuados.com/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.e-valuados.com.ico",
     "slug": "api-evaluados",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 260,
-    "timeDay": 152,
-    "timeWeek": 139,
-    "timeMonth": 139,
+    "timeDay": 138,
+    "timeWeek": 136,
+    "timeMonth": 138,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2024-11-10": 0
+      "2024-11-10": 15
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.test.e-valuados.com/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.test.e-valuados.com.ico",
     "slug": "api-test-evaluados",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 1692,
-    "timeWeek": 533,
-    "timeMonth": 244,
+    "timeDay": 1172,
+    "timeWeek": 488,
+    "timeMonth": 240,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2024-11-10": 0
+      "2024-11-10": 15
     }
   },
   {
