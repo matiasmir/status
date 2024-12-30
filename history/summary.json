@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 190,
-    "timeDay": 90,
-    "timeWeek": 128,
-    "timeMonth": 129,
+    "time": 186,
+    "timeDay": 150,
+    "timeWeek": 129,
+    "timeMonth": 131,
     "timeYear": 120,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 139,
-    "timeWeek": 146,
-    "timeMonth": 148,
+    "timeDay": 186,
+    "timeWeek": 150,
+    "timeMonth": 149,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2024-12-07": 15
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 270,
-    "timeDay": 202,
-    "timeWeek": 255,
-    "timeMonth": 267,
+    "timeDay": 213,
+    "timeWeek": 254,
+    "timeMonth": 265,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2024-10-13": 16
@@ -69,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 72,
-    "timeWeek": 110,
+    "timeDay": 57,
+    "timeWeek": 103,
     "timeMonth": 118,
     "timeYear": 109,
     "dailyMinutesDown": {
@@ -89,8 +89,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 261,
-    "timeDay": 249,
-    "timeWeek": 243,
+    "timeDay": 272,
+    "timeWeek": 246,
     "timeMonth": 261,
     "timeYear": 264,
     "dailyMinutesDown": {
@@ -109,9 +109,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 257,
-    "timeDay": 199,
-    "timeWeek": 265,
-    "timeMonth": 266,
+    "timeDay": 288,
+    "timeWeek": 266,
+    "timeMonth": 268,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2024-10-13": 16,
@@ -130,9 +130,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 254,
-    "timeDay": 240,
-    "timeWeek": 263,
-    "timeMonth": 267,
+    "timeDay": 210,
+    "timeWeek": 252,
+    "timeMonth": 265,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2024-10-13": 16
