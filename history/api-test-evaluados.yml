@@ -1,7 +1,7 @@
 url: https://api.test.e-valuados.com/v1/health
-status: down
-code: 502
-responseTime: 120
-lastUpdated: 2025-02-11T20:58:13.027Z
+status: up
+code: 200
+responseTime: 212
+lastUpdated: 2025-02-11T21:16:42.451Z
 startTime: 2022-09-14T13:32:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
