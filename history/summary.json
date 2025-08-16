@@ -54,7 +54,7 @@
     "uptime": "98.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "16.24%",
-    "uptimeMonth": "61.13%",
+    "uptimeMonth": "61.05%",
     "uptimeYear": "96.55%",
     "time": 156,
     "timeDay": 195,
@@ -62,7 +62,7 @@
     "timeMonth": 147,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-08-16": 673,
+      "2025-08-16": 706,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1379,
@@ -138,10 +138,10 @@
     "url": "https://continental.e-valuados.com",
     "icon": "https://icons.duckduckgo.com/ip3/continental.e-valuados.com.ico",
     "slug": "gestor-continental",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
@@ -149,17 +149,19 @@
     "timeWeek": 157,
     "timeMonth": 130,
     "timeYear": 120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-16": 2
+    }
   },
   {
     "name": "Gestor Applicados21",
     "url": "https://applicados21.e-valuados.com",
     "icon": "https://icons.duckduckgo.com/ip3/applicados21.e-valuados.com.ico",
     "slug": "gestor-applicados21",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 283,
@@ -168,7 +170,7 @@
     "timeMonth": 319,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2025-08-16": 16,
+      "2025-08-16": 17,
       "2025-06-04": 19,
       "2024-10-13": 16
     }
@@ -178,10 +180,10 @@
     "url": "https://docente.e-valuados.com",
     "icon": "https://icons.duckduckgo.com/ip3/docente.e-valuados.com.ico",
     "slug": "gestor-evaluados",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 274,
@@ -190,7 +192,7 @@
     "timeMonth": 290,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2025-08-16": 16,
+      "2025-08-16": 17,
       "2025-06-04": 19,
       "2024-10-13": 16
     }
@@ -200,9 +202,9 @@
     "url": "https://ute.e-valuados.com",
     "icon": "https://icons.duckduckgo.com/ip3/ute.e-valuados.com.ico",
     "slug": "gestor-ute",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.96%",
+    "uptimeDay": "98.94%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
