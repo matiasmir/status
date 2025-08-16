@@ -54,15 +54,15 @@
     "uptime": "98.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "16.24%",
-    "uptimeMonth": "61.30%",
-    "uptimeYear": "96.57%",
+    "uptimeMonth": "61.16%",
+    "uptimeYear": "96.56%",
     "time": 156,
     "timeDay": 195,
     "timeWeek": 151,
     "timeMonth": 147,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-08-16": 598,
+      "2025-08-16": 658,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1379,
@@ -156,10 +156,10 @@
     "url": "https://applicados21.e-valuados.com",
     "icon": "https://icons.duckduckgo.com/ip3/applicados21.e-valuados.com.ico",
     "slug": "gestor-applicados21",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 283,
@@ -168,6 +168,7 @@
     "timeMonth": 318,
     "timeYear": 287,
     "dailyMinutesDown": {
+      "2025-08-16": 1,
       "2025-06-04": 19,
       "2024-10-13": 16
     }
@@ -177,10 +178,10 @@
     "url": "https://docente.e-valuados.com",
     "icon": "https://icons.duckduckgo.com/ip3/docente.e-valuados.com.ico",
     "slug": "gestor-evaluados",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 274,
@@ -189,6 +190,7 @@
     "timeMonth": 286,
     "timeYear": 276,
     "dailyMinutesDown": {
+      "2025-08-16": 1,
       "2025-06-04": 19,
       "2024-10-13": 16
     }
@@ -198,11 +200,11 @@
     "url": "https://ute.e-valuados.com",
     "icon": "https://icons.duckduckgo.com/ip3/ute.e-valuados.com.ico",
     "slug": "gestor-ute",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 271,
     "timeDay": 311,
@@ -210,7 +212,7 @@
     "timeMonth": 297,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2025-08-16": 7,
+      "2025-08-16": 0,
       "2025-06-04": 19,
       "2024-10-13": 16
     }
