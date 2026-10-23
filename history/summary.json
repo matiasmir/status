@@ -5,19 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.e-valuados.com.ico",
     "slug": "api-evaluados",
     "status": "down",
-    "uptime": "84.13%",
+    "uptime": "84.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "35.29%",
+    "uptimeYear": "35.01%",
     "time": 146,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 144,
+    "timeYear": 145,
     "dailyMinutesDown": {
       "2025-12-01": 24,
-      "2026-10-22": 155,
+      "2026-10-23": 160,
+      "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -263,7 +264,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.test.e-valuados.com.ico",
     "slug": "api-test-evaluados",
     "status": "down",
-    "uptime": "70.49%",
+    "uptime": "70.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -274,7 +275,8 @@
     "timeMonth": 0,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2026-10-22": 155,
+      "2026-10-23": 160,
+      "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -637,8 +639,7 @@
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
-      "2025-10-24": 1440,
-      "2025-10-23": 1440
+      "2025-10-24": 1440
     }
   },
   {
@@ -647,7 +648,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/upaep.e-valuados.com.ico",
     "slug": "gestor-upaep",
     "status": "down",
-    "uptime": "74.79%",
+    "uptime": "74.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -656,9 +657,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 124,
+    "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-10-22": 155,
+      "2026-10-23": 160,
+      "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -1021,8 +1023,7 @@
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
-      "2025-10-24": 1440,
-      "2025-10-23": 1440
+      "2025-10-24": 1440
     }
   },
   {
@@ -1031,18 +1032,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/continental.e-valuados.com.ico",
     "slug": "gestor-continental",
     "status": "down",
-    "uptime": "83.93%",
+    "uptime": "83.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "35.29%",
-    "time": 152,
+    "uptimeYear": "35.02%",
+    "time": 153,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 173,
+    "timeYear": 174,
     "dailyMinutesDown": {
-      "2026-10-22": 155,
+      "2026-10-23": 160,
+      "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -1288,7 +1290,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/applicados21.e-valuados.com.ico",
     "slug": "gestor-applicados21",
     "status": "down",
-    "uptime": "74.79%",
+    "uptime": "74.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1297,9 +1299,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 116,
+    "timeYear": 117,
     "dailyMinutesDown": {
-      "2026-10-22": 155,
+      "2026-10-23": 160,
+      "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -1662,8 +1665,7 @@
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
-      "2025-10-24": 1440,
-      "2025-10-23": 1440
+      "2025-10-24": 1440
     }
   },
   {
@@ -1672,7 +1674,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/docente.e-valuados.com.ico",
     "slug": "gestor-evaluados",
     "status": "down",
-    "uptime": "74.79%",
+    "uptime": "74.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1683,7 +1685,8 @@
     "timeMonth": 0,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2026-10-22": 155,
+      "2026-10-23": 160,
+      "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -2046,8 +2049,7 @@
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
-      "2025-10-24": 1440,
-      "2025-10-23": 1440
+      "2025-10-24": 1440
     }
   },
   {
@@ -2056,18 +2058,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ute.e-valuados.com.ico",
     "slug": "gestor-ute",
     "status": "down",
-    "uptime": "74.79%",
+    "uptime": "74.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 194,
+    "time": 193,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 110,
+    "timeYear": 111,
     "dailyMinutesDown": {
-      "2026-10-22": 155,
+      "2026-10-23": 160,
+      "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -2430,8 +2433,7 @@
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
-      "2025-10-24": 1440,
-      "2025-10-23": 1440
+      "2025-10-24": 1440
     }
   }
 ]
